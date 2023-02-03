@@ -1,0 +1,18 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    cursor: default;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.animate-spin-coustom {
+    animation: spin 3s linear infinite;
+}

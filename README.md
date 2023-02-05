@@ -1,5 +1,5 @@
 # Dr.Car
-This app lets a car service company to get the service orders online. It has options to select required services and place the order. This app also lets you see all the previous orders and the status of the current orders too. Used a coustom api. It is a react and tailwind css project and is fully responsive.
+This app lets a car service company to get the service orders online. It has options to select required services and place the order. This app also lets you see all the previous orders and the status of the current orders too. Used a coustom api. Used MongoDB as the database and ExpressJS as server. The server was deployed in Render and the app was hosted on Netlify. It is a react and tailwind css project and is fully responsive.
 
 Register to the app
 
